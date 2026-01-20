@@ -1,4 +1,5 @@
 # Patient Management System
+![Banner](patient.png)
 
 A FastAPI-based application for managing patient data, including automatic BMI calculation and health verdicts using Pydantic models. The application stores patient information in a JSON file (`patient_clone.json`) and provides RESTful API endpoints for CRUD operations.
 
